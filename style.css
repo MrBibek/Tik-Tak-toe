@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 .tik-tak-container{
+    background-color:antiquewhite;
     padding:20px;
 display:flex;
 justify-content:center;
@@ -25,7 +26,7 @@ h1{
 
 }
 .entries{
-    border:4px solid rgb(16, 210, 171);
+    border:4px solid black;
     padding:5px; 
     font-size:30px;
     width:3em;
